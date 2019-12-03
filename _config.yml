@@ -1,23 +1,24 @@
+
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: mostafa mohamed tawfik
+bio: life not fair 
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about ML project
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/B612_20170114_163228.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/1e1fqkWCJp79DMmPCCn_T9XQi7LHE32OS/view?usp=sharing
 
-url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+url: http://mostafa15397.github.io
+your url: http://mostafa15397.github.io
 
 permalink: /:title/
 
@@ -29,29 +30,29 @@ permalink: /:title/
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+#disqus:
+  #shortname: mydisqus # enter this from your disqus account
+  #categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: /mostafatufik
+#twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: mostafa15397
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: mostafa.mohamed97@eng-st.cu.edu.eg
 
 authors:
     johndoe:
@@ -118,3 +119,5 @@ compress_html:
         - stage
 
 exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
+
+theme: jekyll-theme-dinky
