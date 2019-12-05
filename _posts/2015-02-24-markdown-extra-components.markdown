@@ -13,7 +13,7 @@ author: jamesfoster
 description: Markdown summary with different options
 ---
 
-##  ``Thyroid``** **``Diseases``**
+#  ``Thyroid Diseases``**
 
 ## ``introduction``
 
@@ -62,7 +62,7 @@ test_set = subset(dateset , split == FALSE)
 ```  
 we make visualize dataset feature by feature against  class
 Box and whisker plots for each attribute
-<img src="https://mostafa15397.github.io/assets/images/Box and whisker plots for each attribute.jpg" width="" height="" />
+<img src="https://mostafa15397.github.io/assets/images/graph1.jpg and whisker plots for each attribute.jpg" width="" height="" />
 
 Naive Bayes ===========================================
 
@@ -127,7 +127,7 @@ TSH              1           2           3
 
 ploting naive bias
 
-<img src="https://mostafa15397.github.io/assets/images/ploting%20naive%20bias.png and whisker plots for each attribute.jpg" width="" height="" />
+![naive bias](https://github.com/mostafa15397/mostafa15397.github.io/blob/master/assets/images/ploting%20naive%20bias.png?raw=true)
 
 
 Confusion Matrix and Statistics
@@ -152,3 +152,10 @@ Overall Statistics
 Statistics by Class:
 
 ![Cv](https://github.com/mostafa15397/mostafa15397.github.io/blob/master/Capture.PNG?raw=true)
+
+![plot that explains the relation between different features in class dataset](https://github.com/mostafa15397/mostafa15397.github.io/blob/master/assets/images/plot%20that%20explains%20the%20relation%20between%20different%20features%20in%20class%20dataset.jpg?raw=true)
+
+
+![#Error in prediction at k = 3 (https://github.com/mostafa15397/mostafa15397.github.io/blob/master/assets/images/78956474_480467589246964_4235545560171413504_n.jpg?raw=true)
+
+
