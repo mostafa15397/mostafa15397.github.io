@@ -43,3 +43,15 @@ before normalization
 after normalization
 
 <img src="https://mostafa15397.github.io/assets/images/after.png" width="" height="" />
+
+we took dataset randomly not to be biased
+
+```
+{
+  library(caTools)
+set.seed(123)
+split = sample.split(dateset$Class, SplitRatio = 0.8)
+training_set = subset(dateset , split == TRUE)
+test_set = subset(dateset , split == FALSE)
+}
+```  
