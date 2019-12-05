@@ -1,13 +1,12 @@
 ---
-title: "Markdown Extra Components"
+title: "MLfor Thyroid Diseases "
 layout: post
-date: 2016-02-24 22:48
+date: 2019-12-5 20:08
 image: /assets/images/markdown.jpg1
 headerImage: false
 tag:
 - markdown
-- components
-- extra
+
 category: blog
 author: jamesfoster
 description: Markdown summary with different options
