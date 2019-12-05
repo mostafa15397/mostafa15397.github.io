@@ -2,7 +2,7 @@
 title: "Markdown Extra Components"
 layout: post
 date: 2016-02-24 22:48
-image: /assets/images/markdown.jpg
+image: /assets/images/markdown.jpg1
 headerImage: false
 tag:
 - markdown
@@ -160,6 +160,6 @@ KNN is a Supervised Learning algorithm that uses labeled input data set to predi
     It is one of the most simple Machine learning algorithms and it can be easily implemented for a varied set of problems.
     It is mainly based on feature similarity. KNN checks how similar a data point is to its neighbor and classifies the data point into the class it is most similar to.
 
-![#Error in prediction at k = 3 (https://github.com/mostafa15397/mostafa15397.github.io/blob/master/assets/images/78956474_480467589246964_4235545560171413504_n.jpg?raw=true)
+![Error in prediction at k = 3 (https://github.com/mostafa15397/mostafa15397.github.io/blob/master/assets/images/78956474_480467589246964_4235545560171413504_n.jpg?raw=true)
 
 
