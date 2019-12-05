@@ -167,4 +167,4 @@ in this method we classifier classes as tree first algorism as if is normal or n
 if normal it is class 1 if not normal ask if hyperthyroidism class (2)  , or hypothyroidism (3)
 ![decision tree plot](https://github.com/mostafa15397/mostafa15397.github.io/blob/master/assets/images/desetion%20tree.jpg?raw=true)
 
-and we get accuracy= 90%  after applying cross validation
+and we get accuracy= 90%  after applying cross validation 
