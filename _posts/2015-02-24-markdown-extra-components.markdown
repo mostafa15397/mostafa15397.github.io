@@ -17,6 +17,11 @@ description: Markdown summary with different options
 
 ## ``introduction``
 
+Machine learning algorithms :
+The most common learning algorithms are supervised and unsupervised
+Supervised learning that we are going to teach the computer how to do something
+Unsupervised learning that we are going to let it learn by itself
+
 1-*Background* *and* *motivation*
 
 Recently, thyroid diseases are more and more spread
@@ -55,4 +60,4 @@ training_set = subset(dateset , split == TRUE)
 test_set = subset(dateset , split == FALSE)
 }
 ```  
-we made feature selction and select 
+we made feature selction and select
