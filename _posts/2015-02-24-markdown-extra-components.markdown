@@ -126,6 +126,7 @@ TSH              1           2           3
 ---------------------------------------------------------------------------------------------------
 
 ploting naive bias
+
 <img src="https://mostafa15397.github.io/assets/images/ploting%20naive%20bias.png and whisker plots for each attribute.jpg" width="" height="" />
 
 
