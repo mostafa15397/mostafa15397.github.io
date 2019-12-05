@@ -60,4 +60,5 @@ training_set = subset(dateset , split == TRUE)
 test_set = subset(dateset , split == FALSE)
 }
 ```  
-we made feature selction and select
+Box and whisker plots for each attribute
+<img src="https://mostafa15397.github.io/assets/images/Box and whisker plots for each attribute.jpg" width="" height="" />
