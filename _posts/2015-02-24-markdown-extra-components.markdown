@@ -13,9 +13,9 @@ author: jamesfoster
 description: Markdown summary with different options
 ---
 
-#  ``Thyroid Diseases``**
+#  Thyroid Diseases
 
-## ``introduction``
+## introduction
 
 Machine learning algorithms :
 The most common learning algorithms are supervised and unsupervised
@@ -35,7 +35,7 @@ suffers from hyperthyroidism (2) or hypothyroidism (3).
 by using ML by three methodes (decision tree , naive ,K-NN ) and our data set is  [here ](https://sci2s.ugr.es/keel/dataset/data/classification/newthyroid.zip)
 
 
- ## **``Pre-processing``**
+ ## Pre-processing
 
 we faced a problem
  that our data have 5 feature which all don't have the same range so  we used Feature normalization to make them have the same range
@@ -62,7 +62,7 @@ test_set = subset(dateset , split == FALSE)
 ```  
 we make visualize dataset feature by feature against  class
 Box and whisker plots for each attribute
-<img src="https://mostafa15397.github.io/assets/images/graph1.jpg and whisker plots for each attribute.jpg" width="" height="" />
+![Box and whisker plots for each attribute]()
 
 Naive Bayes ===========================================
 
@@ -156,10 +156,19 @@ Statistics by Class:
 
 ![plot that explains the relation between different features in class dataset](https://github.com/mostafa15397/mostafa15397.github.io/blob/master/assets/images/plot%20that%20explains%20the%20relation%20between%20different%20features%20in%20class%20dataset.jpg?raw=true)
 
-KNN is a Supervised Learning algorithm that uses labeled input data set to predict the output of the data points.
+##KNN
+ KNN is a Supervised Learning algorithm that uses labeled input data set to predict the output of the data points.
     It is one of the most simple Machine learning algorithms and it can be easily implemented for a varied set of problems.
     It is mainly based on feature similarity. KNN checks how similar a data point is to its neighbor and classifies the data point into the class it is most similar to.
 
 ![Error in prediction at k = 3 ](https://github.com/mostafa15397/mostafa15397.github.io/blob/master/assets/images/78956474_480467589246964_4235545560171413504_n.jpg?raw=true)
+ 
+##decision tree 
+in this method we classifire classes as tree first algorizme as if is normal or not 
+if normal it is class 1 if not normal ask if hyperthyroidism class (2)  , or hypothyroidism (3) 
+![deceision tree plot](https://github.com/mostafa15397/mostafa15397.github.io/blob/master/assets/images/desetion%20tree.jpg?raw=true)
+
+and we get accuracy= 90%  after appling cross validation 
+
 
 
