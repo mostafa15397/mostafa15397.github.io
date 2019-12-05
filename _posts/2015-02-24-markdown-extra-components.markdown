@@ -31,15 +31,15 @@ by using ML by three methodes (decision tree , naive ,K-NN ) and our data set is
 
 
  ## **``Pre-processing``**
- 
+
 we faced a problem
  that our data have 5 feature which all don't have the same range so  we used Feature normalization to make them have the same range
 
 before normalization
 
-<img src="befor.png" width="" height="" />
+<img src="assets/images/befor.png" width="" height="" />
 
 
 after normalization
 
-<img src="after.png" width="" height="" />
+<img src="assets/images/after.png" width="" height="" />
