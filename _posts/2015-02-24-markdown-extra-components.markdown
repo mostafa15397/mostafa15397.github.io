@@ -153,10 +153,17 @@ Statistics by Class:
 
                      Class: 1 Class: 2 Class: 3
 Sensitivity            1.0000   1.0000  0.80000
+
 Specificity            0.9375   1.0000  1.00000
+
 Pos Pred Value         0.9643   1.0000  1.00000
+
 Neg Pred Value         1.0000   1.0000  0.97436
+
 Prevalence             0.6279   0.2558  0.11628
+
 Detection Rate         0.6279   0.2558  0.09302
+
 Detection Prevalence   0.6512   0.2558  0.09302
+
 Balanced Accuracy      0.9688   1.0000  0.90000
