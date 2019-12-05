@@ -124,3 +124,7 @@ TSH              1           2           3
  sd    0.22302501  0.03347533  1.94831655
 
 ---------------------------------------------------------------------------------------------------
+
+ploting naive bias
+
+<img src="https://mostafa15397.github.io/assets/images/ploting naive bias.png and whisker plots for each attribute.jpg" width="" height="" />
