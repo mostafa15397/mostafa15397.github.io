@@ -1,5 +1,5 @@
 ---
-title: "MLfor Thyroid Diseases "
+title: "ML for Thyroid Diseases "
 layout: post
 date: 2019-12-5 20:08
 image: /assets/images/markdown.jpg1
