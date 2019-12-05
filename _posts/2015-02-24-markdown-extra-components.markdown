@@ -153,8 +153,12 @@ Statistics by Class:
 
 ![Cv](https://github.com/mostafa15397/mostafa15397.github.io/blob/master/Capture.PNG?raw=true)
 
+
 ![plot that explains the relation between different features in class dataset](https://github.com/mostafa15397/mostafa15397.github.io/blob/master/assets/images/plot%20that%20explains%20the%20relation%20between%20different%20features%20in%20class%20dataset.jpg?raw=true)
 
+KNN is a Supervised Learning algorithm that uses labeled input data set to predict the output of the data points.
+    It is one of the most simple Machine learning algorithms and it can be easily implemented for a varied set of problems.
+    It is mainly based on feature similarity. KNN checks how similar a data point is to its neighbor and classifies the data point into the class it is most similar to.
 
 ![#Error in prediction at k = 3 (https://github.com/mostafa15397/mostafa15397.github.io/blob/master/assets/images/78956474_480467589246964_4235545560171413504_n.jpg?raw=true)
 
