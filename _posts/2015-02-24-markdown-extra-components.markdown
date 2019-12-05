@@ -62,7 +62,7 @@ test_set = subset(dateset , split == FALSE)
 ```  
 we make visualize dataset feature by feature against  class
 Box and whisker plots for each attribute
-![Box and whisker plots for each attribute]()
+![Box and whisker plots for each attribute](https://github.com/mostafa15397/mostafa15397.github.io/blob/master/assets/images/Box%20and%20whisker%20plots%20for%20each%20attribute.jpg?raw=true)
 
 Naive Bayes ===========================================
 
