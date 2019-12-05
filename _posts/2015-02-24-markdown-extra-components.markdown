@@ -37,9 +37,9 @@ we faced a problem
 
 before normalization
 
-<img src="assets/images/befor.png" width="" height="" />
+<img src="https://mostafa15397.github.io/assets/images/befor.png" width="" height="" />
 
 
 after normalization
 
-<img src="assets/images/after.png" width="" height="" />
+<img src="https://mostafa15397.github.io/assets/images/after.png" width="" height="" />
