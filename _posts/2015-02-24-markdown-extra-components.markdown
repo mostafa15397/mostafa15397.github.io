@@ -34,7 +34,7 @@ suffers from hyperthyroidism (2) or hypothyroidism (3).
 by using ML by three methodes (decision tree , naive ,K-NN ) and our data set is  [here ](https://sci2s.ugr.es/keel/dataset/data/classification/newthyroid.zip)
 
 
- ## Pre-processing
+ ##  Pre-processing
 
 we faced a problem
  that our data have 5 feature which all don't have the same range so  we used Feature normalization to make them have the same range
