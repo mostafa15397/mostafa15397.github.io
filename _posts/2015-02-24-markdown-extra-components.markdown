@@ -55,3 +55,4 @@ training_set = subset(dateset , split == TRUE)
 test_set = subset(dateset , split == FALSE)
 }
 ```  
+we made feature selction and select 
