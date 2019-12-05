@@ -13,7 +13,7 @@ author: jamesfoster
 description: Markdown summary with different options
 ---
 
-##  **``Thyroid``** **``Diseases``**
+##  ``Thyroid``** **``Diseases``**
 
 ## ``introduction``
 
@@ -127,3 +127,34 @@ TSH              1           2           3
 
 ploting naive bias
 <img src="https://mostafa15397.github.io/assets/images/ploting%20naive%20bias.png and whisker plots for each attribute.jpg" width="" height="" />
+
+Confusion Matrix and Statistics
+
+               y_pred
+test_set_labels  1  2  3
+              1 27  0  1
+              2  0 11  0
+              3  0  0  4
+
+Overall Statistics
+
+               Accuracy : 0.9767          
+                 95% CI : (0.8771, 0.9994)
+    No Information Rate : 0.6279          
+    P-Value [Acc > NIR] : 5.401e-08       
+
+                  Kappa : 0.9548          
+
+ Mcnemar's Test P-Value : NA              
+
+Statistics by Class:
+
+                     Class: 1 Class: 2 Class: 3
+Sensitivity            1.0000   1.0000  0.80000
+Specificity            0.9375   1.0000  1.00000
+Pos Pred Value         0.9643   1.0000  1.00000
+Neg Pred Value         1.0000   1.0000  0.97436
+Prevalence             0.6279   0.2558  0.11628
+Detection Rate         0.6279   0.2558  0.09302
+Detection Prevalence   0.6512   0.2558  0.09302
+Balanced Accuracy      0.9688   1.0000  0.90000
